@@ -2,8 +2,6 @@
   <img src="https://i.imgur.com/H3dhKjL.gif" alt="animated" />
 </p>
 
-<h1 align="center">👋Nix</h1>
-
 &nbsp;
 
 - 👨🏻‍💻 Small **programmer** and **hacker**
