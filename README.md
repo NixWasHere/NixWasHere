@@ -16,10 +16,6 @@
 
 &nbsp;
 
-- ⭐️ I’m currently learning: **HTML, C++, css**
-
-&nbsp;
-
-- 🕸 Programming languages to learn in the future: **GoLang, Java**
+- ⭐️ I’m currently learning: **GoLang**
 
 </p>
