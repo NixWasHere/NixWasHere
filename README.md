@@ -8,7 +8,7 @@
 
 &nbsp;
 
-- ⚡ Check out my website: https://niksazizu.cf/
+- ⚡ Check out my bio: https://guns.lol/nixyz
 
 &nbsp;
 
